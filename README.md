@@ -6,13 +6,15 @@
 ### :point_right: รหัสนักศึกษา : 623020541-2
 
 *** 
-### :point_right: ชื่อกลุ่ม mid-term : Meta Human :point_left:
+### :point_right: ชื่อกลุ่ม Mid-term : Meta Human :point_left:
 ### สมาชิกกลุ่มประกอบไปด้วย
 | รหัสนักศึกษา | ชื่อ-สกุล | สาขา | ชั้นปี |
 | ----------- | ----------- |----------- |----------- |
 | 623020451-3 | นางสาวศิริลักษณ์ กัณหารัตน์ | SC-STAT | 3 |
 | 623020541-2 | นายสิทธัตกะ จรัสแสง | SC-SI | 3 |
 | 623021045-9 | นายชณะชัย อิสระกูล | SC-SI | 3 |
+
+[คลิ๊กเพื่อเข้า Mid-term : Meta Human Exam for midterm (Github)](https://github.com/sitthatkaja/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
 
 ***
 
@@ -45,5 +47,31 @@
 [คลิ๊กเพื่อเข้า Project : คิดชื่อไม่ออก Presentation (Canvas) ](https://github.com/sitthatkaja/data_viz_2022/blob/main/Presentation%20Project%20Group.pdf)
 
 ***
+
+### เนื้อหาการเรียนรู้
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Introduction ](https://github.com/sitthatkaja/data_viz_2022/blob/main/Intro0.ipynb)
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Python ](https://github.com/sitthatkaja/data_viz_2022/blob/main/Python101.ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Data Structure ](https://github.com/sitthatkaja/data_viz_2022/blob/main/Data_Structure.ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Basic programming ](https://github.com/sitthatkaja/data_viz_2022/blob/main/Basic_Programming_Concept.ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Pandas part 1 ](https://github.com/sitthatkaja/data_viz_2022/blob/main/Pandas101.ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Pandas part 2 ](https://github.com/sitthatkaja/data_viz_2022/blob/main/Pandas102.ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Table Data ](https://github.com/sitthatkaja/data_viz_2022/blob/main/DataViz01_Table_Data.ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา การทำภาษาไทย ](https://github.com/sitthatkaja/data_viz_2022/blob/main/DataViz011_Show_Thai_Language_in_Graph.ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Data Distribution](https://github.com/sitthatkaja/data_viz_2022/blob/main/DataViz02_Data_Distribution_.ipynb)
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา  Data Distribution (PCA) ](https://github.com/sitthatkaja/data_viz_2022/blob/main/DataViz03_Data_Distribution_(PCA).ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Data Comparison ](https://github.com/sitthatkaja/data_viz_2022/blob/main/DataViz04_Data_Comparison.ipynb) 
+
+[คลิ๊กเพื่อเข้าสู่เนื้อหา Map ](https://github.com/sitthatkaja/data_viz_2022/blob/main/Visualize_Map.ipynb) 
 
 
