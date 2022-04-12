@@ -29,7 +29,7 @@
 
 [คลิ๊กเพื่อเข้า Final : Fustet การทำ Data Preprocessing (Github)](https://github.com/sitthatkaja/data_viz_2022/blob/main/Final_Exam.ipynb)
 
-[คลิ๊กเพื่อเข้า Final : Fustet Dashboard (Data Studio) ](https://datastudio.google.com/u/0/reporting/aa2b12ae-e4f4-40d8-aff7-b55b1265c678/page/g5BqC)
+[คลิ๊กเพื่อเข้า Final : Fustet Dashboard (Data Studio) ](https://datastudio.google.com/reporting/aa2b12ae-e4f4-40d8-aff7-b55b1265c678/page/g5BqC)
 
 ***
 ### :point_right: ชื่อกลุ่ม Project : คิดชื่อไม่ออก :point_left:
